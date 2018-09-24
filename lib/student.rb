@@ -28,4 +28,6 @@ class Student
   end
 
   def save
+    
+  end
 end
